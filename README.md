@@ -8,9 +8,9 @@
 5. Для проверки решения выводим результат на консоль.
 
 ****
-[BlockOneFinalTest]( "https://github.com/GaiMarina/BlockOneFinalTest")
+[BlockOneFinalTest](https://github.com/GaiMarina/BlockOneFinalTest)
 
-[Block Diagram]( "https://github.com/GaiMarina/BlockOneFinalTest/blob/main/Untitled%20Diagram-Page-1.jpg")
+[Block Diagram](https://github.com/GaiMarina/BlockOneFinalTest/blob/main/Untitled%20Diagram-Page-1.jpg)
 
 
 
