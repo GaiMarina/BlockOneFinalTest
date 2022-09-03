@@ -1,5 +1,5 @@
 # BlockOneFinalTest
-## **Алгоритм.**
+<font size = 5> **Алгоритм.** </font>
 ****
 1. Задаем вручную массив строк.
 2. Определяем размер итогового массива.
@@ -10,7 +10,7 @@
 ****
 [BlockOneFinalTest](https://github.com/GaiMarina/BlockOneFinalTest)
 
-[Block Diagram](https://github.com/GaiMarina/BlockOneFinalTest/blob/main/Untitled%20Diagram-Page-1.jpg)
+[Block Diagram](https://github.com/GaiMarina/BlockOneFinalTest/blob/main/BlockDiagram.jpg)
 
 
 
